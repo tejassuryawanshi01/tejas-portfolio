@@ -8,9 +8,7 @@ A modern, responsive personal portfolio showcasing my work in **Generative AI, A
 
 ## 🌐 Live Demo
 
-> https://YOUR-VERCEL-URL.vercel.app
-
-_(Update this link after deployment.)_
+> https://tejas-portfolio.vercel.app
 
 ---
 
